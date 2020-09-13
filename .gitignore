@@ -1,0 +1,8 @@
+.DS_STORE
+.idea
+__pycache__
+test_ocr
+venv
+resources
+output
+tmp
